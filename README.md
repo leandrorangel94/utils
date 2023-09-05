@@ -1,18 +1,24 @@
 ﻿# Links
 
-## Icones
+## Icons
+- [Icons8](https://icons8.com/icons)
+- [Iconify](https://iconify.design/)
+- [Google Icons](https://fonts.google.com/icons)
+- [FlatIcons](https://www.flaticon.com/)
+- [Phosphor](https://phosphoricons.com/)
+- [Radix](https://www.radix-ui.com/icons)
 
 ---
-## Fontes
+## Fonts
 
 ---
-## Imagens
+## Images
 
 ---
-## Extensões VSCode
+## VSCode Extensions
 
 ---
-## Extensões Chrome
+## Chrome/Edge Extensions
 - [Emmet Re:View](https://www.example.com](https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp?hl=pt-BR)https://chrome.google.com/webstore/detail/emmet-review/epejoicbhllgiimigokgjdoijnpaphdp?hl=pt-BR)
 - [Mobile simulator](https://chrome.google.com/webstore/detail/mobile-simulator-responsi/ckejmhbmlajgoklhgbapkiccekfoccmk?utm_source=ext_sidebar&hl=en-US)
 - [Fonts Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh?utm_source=ext_sidebar&hl=en-US)
