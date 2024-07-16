@@ -84,5 +84,6 @@
 - [ColorZilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?utm_source=ext_sidebar&hl=en-US)
 - [Detailed SEO](https://chrome.google.com/webstore/detail/detailed-seo-extension/pfjdepjjfjjahkjfpkcgfmfhmnakjfba?utm_source=ext_sidebar&hl=en-US)
 - [Measuremate](https://chrome.google.com/webstore/detail/measuremate/fcbffocoaopnenhgbchlchgndohggdei?utm_source=ext_sidebar&hl=en-US)
+- [Fonts Ninja](https://chromewebstore.google.com/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh?pli=1)
 
 ---
